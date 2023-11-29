@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full Stack Developer</title>
+</head>
+<body>
+    <h1>PRASANTH D</h1>
+    <p>Prasanth is a full stack developer, In Guvi learning.com</p>
+    <a href="https://github.com/Prasanth-FSD" target="_blank">Github Profile</a>
+    <h3>Summary</h3>
+    <p>M.S. Dhoni, (born July 7, 1981, Ranchi, Bihar [now Jharkhand] state, India), Indian cricketer whose rise to prominence in the early 21st century culminated in his captaincy of the Indian national team that won the one-day Cricket World Cup in 2011.<br> Dhoni made his international debut in 2004.
+        <span style="color: rgb(255, 0, 55);">Always Cool MSD</span> </p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC1xnTNeAKR2Kk4W200-tRGSeFmOBFCXcfXw&usqp=CAU alt="MSD 7" style="width: 300px;">
+    <h3>Skills</h3>
+    <ul>
+        <li>7</li>
+        <li>Capitan cool</li>
+        <li>Leadership</li>
+        
+    </ul>
+    <form>
+        <label>Firstname</label><br>
+        <input type="Firstname"><br>
+        <label>Lastname</label><br>
+        <input type="Lastname"><br>
+        <label>Email</label><br>
+        <input type="Email"><br>
+        <label>Password</label><br>
+        <input type="password"><br>
+        <label>Uploadfile</label><br>
+        <input type="Uploadfile"><br>
+        <label>Otp</label><br>
+        <input type="Otp"><br>
+        
+    </form>
+</body>
+</html>
